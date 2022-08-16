@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Resources/logo-horizontal.png" alt="Icon" height='100%' />
+  <img src="Resources/logo-horizontal.png" alt="Icon" width='100%' />
 </p>
 
 # Recon Bolt
